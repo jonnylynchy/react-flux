@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "0": {
+      "message": "Hell there, how are you?",
+      "date": "Tue 10 Nov 2015 10:45:23 GMT",
+      "author": "Jon Lynch",
+      "profilePic": "http://lh3.googleusercontent.com/-cUnaUcKUMU8/AAAAAAAAAAI/AAAAAAAANho/Ch_KeCt5SN8/s120-c/photo.jpg"
+    },
+    "1": {
+      "message": "I'm great, how you doin?",
+      "date": "Tue 10 Nov 2015 11:45:23 GMT",
+      "author": "Joe Schmoe",
+      "profilePic": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11817005_508551109311360_3615817160270665978_n.jpg?oh=c6f95bc3e68d8d64c263ed67dfd41f9e&oe=56B07A83"
+    }
+  }
+}
