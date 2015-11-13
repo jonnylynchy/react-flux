@@ -12,5 +12,19 @@
       "author": "Joe Schmoe",
       "profilePic": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11817005_508551109311360_3615817160270665978_n.jpg?oh=c6f95bc3e68d8d64c263ed67dfd41f9e&oe=56B07A83"
     }
+  },
+  "channels": {
+    "flux": {
+      "name": "flux"
+    },
+    "react": {
+      "name": "react"
+    },
+    "firebase": {
+      "name": "firebase"
+    },
+    "webpack": {
+      "name": "webpack"
+    }
   }
 }

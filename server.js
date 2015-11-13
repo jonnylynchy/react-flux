@@ -7,4 +7,10 @@ new WebpackDevServer(webpack(config), {
   hot: true,
   historyApiFallback: true,
   stats: { colors: true }
-}).listen(8080, 'localhost');
+}).listen(8080, 'localhost', function(err, result){
+  if(err){
+    return console.log(err);
+  }
+
+  console.log('Listening on localhost:8080')
+});
